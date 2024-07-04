@@ -203,7 +203,7 @@
         transition: 0.7s;
     }
     
-    .about-col-1 img:hover {
+    .aimg:hover {
         transform: translateY(-50px);
     }
     
